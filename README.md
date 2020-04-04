@@ -37,7 +37,7 @@ bn_pytorch是用pytorch提供的BN层构建的神经网络<br>
 激活函数：tanh<br>
 Epoch：10<br>
 <br>
-## （一）	当输入数据x的范围在（-1,1）区间，对比三种模型的效果：<br>
+## （一）当输入数据x的范围在（-1,1）区间，对比三种模型的效果：<br>
 * 数据：<br>
 ![image](https://github.com/dearflypig/batchnormalization/blob/master/picture/6.png)<br>
 <br>
